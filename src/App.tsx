@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Layout, Input, Button, Select, Slider, message, Row, Col, Typography, Card } from 'antd';
+import { Layout, Input, Button, Select, Slider, Row, Col, Typography, Card } from 'antd';
 import './App.css';
 
 const { Option } = Select;
